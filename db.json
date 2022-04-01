@@ -4,12 +4,40 @@
             "id":0,
             "name": "Teaser",
             "description": "This is how you do the teaser",
-            "img":"https://www.shutterstock.com/image-vector/teaser-pilates-exercise-concept-illustration-active-1780704452",
+            "img":"https://image.shutterstock.com/image-vector/teaser-pilates-exercise-concept-illustration-600w-1780704452.jpg",
             "phase": "main"
         },
         {
             "id":1,
             "name": "Roll Up",
+            "description": "This is how you do the roll up",
+            "img":"https://image.shutterstock.com/image-vector/young-woman-demonstrating-various-yoga-600w-1637812180.jpg",
+            "phase": "main"
+        },
+        {
+            "id":2,
+            "name": "Hundred",
+            "description": "This is how you do the roll up",
+            "img":"https://image.shutterstock.com/image-vector/young-woman-demonstrating-various-yoga-600w-1637812180.jpg",
+            "phase": "main"
+        },
+        {
+            "id":3,
+            "name": "One-leg circle",
+            "description": "This is how you do the roll up",
+            "img":"https://image.shutterstock.com/image-vector/young-woman-demonstrating-various-yoga-600w-1637812180.jpg",
+            "phase": "main"
+        },
+        {
+            "id":4,
+            "name": "Roll like a ball",
+            "description": "This is how you do the roll up",
+            "img":"https://image.shutterstock.com/image-vector/young-woman-demonstrating-various-yoga-600w-1637812180.jpg",
+            "phase": "main"
+        },
+        {
+            "id":5,
+            "name": "Spine Stretch",
             "description": "This is how you do the roll up",
             "img":"https://image.shutterstock.com/image-vector/young-woman-demonstrating-various-yoga-600w-1637812180.jpg",
             "phase": "main"
